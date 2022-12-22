@@ -1,10 +1,10 @@
 import csv
 import datetime
 import glob
+import json
 import re
 import urllib3
 from bs4 import BeautifulSoup
-from storage import save_json
 
 pathh = "D:/programming/separate_python/trans_media_watch/"
 
